@@ -179,20 +179,20 @@ nav a:hover::after {
     left: 100%;
 }
 
-.btn-primary {
-    background: #FFD700;
-    color: #333;
+/* .btn-primary {
+    background: white;
+    color: #28156E;
     box-shadow: 0 8px 20px rgba(255, 215, 0, 0.3);
 }
 
 .btn-primary:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 28px rgba(255, 215, 0, 0.4);
-}
+} */
 
 .btn-secondary {
     background: white;
-    color: #667eea;
+    color: #28156E;
     box-shadow: 0 8px 20px rgba(255, 255, 255, 0.3);
 }
 
