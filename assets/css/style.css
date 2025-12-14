@@ -73,7 +73,7 @@ nav a:hover::after {
 
 /* Hero Section */
 .hero {
-    /* background: linear-gradient(180deg, #667eea 100%, #F8F000 0%); */
+    /* background: linear-gradient; */
     background: linear-gradient(180deg,
             #28156E 0%,
             #7356F1 50%,
@@ -82,7 +82,7 @@ nav a:hover::after {
     color: white;
     padding: 8rem 2rem;
     text-align: center;
-    min-height: 82vh;
+    min-height: auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -179,16 +179,6 @@ nav a:hover::after {
     left: 100%;
 }
 
-/* .btn-primary {
-    background: white;
-    color: #28156E;
-    box-shadow: 0 8px 20px rgba(255, 215, 0, 0.3);
-}
-
-.btn-primary:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 12px 28px rgba(255, 215, 0, 0.4);
-} */
 
 .btn-secondary {
     background: white;
